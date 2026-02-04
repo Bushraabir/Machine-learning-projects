@@ -1,0 +1,8 @@
+Metric,Linear Regression,Polynomial Regression
+R² Score,0.875437,-77162.684974
+RMSE,1.417835,1115.934017
+MAE,1.169474,227.691587
+Mean CV R²,0.891214,N/A
+Std CV R²,0.018055,N/A
+Train/Test Split,20% test,20% test
+Random State,42,42
